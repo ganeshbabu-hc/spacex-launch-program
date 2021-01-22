@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.planet {
+  border-radius: 6px;
+  box-shadow: 0 0 4px 0px #e0e0e0;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.planet-header {
+  color: white;
+  padding: 1rem;
+  background-color: #a51890;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.planet-content {
+  padding: 1rem;
+  min-height: 200px;
+}
+
+.search-input {
+  border: solid 2px #a51890;
+  border-radius: 6px;
+  padding: 4px 8px;
+  min-width: 100%;
+}
+
+.btn-logout {
+  background-color: #ff99f0;
+  border-color: #ff99f0;
+  color: black;
+}
+
+.header-bg {
+  background-color: #790568;
+}
